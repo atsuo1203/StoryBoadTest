@@ -16,6 +16,7 @@
 		C01E72751F5FD984001FD4E1 /* StoryBoadTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C01E72741F5FD984001FD4E1 /* StoryBoadTestUITests.swift */; };
 		C08F94331F5FDA5D00E61CA3 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08F94321F5FDA5D00E61CA3 /* TopView.swift */; };
 		C08F94351F5FDA6F00E61CA3 /* UnderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08F94341F5FDA6F00E61CA3 /* UnderView.swift */; };
+		C08F94371F5FDBAA00E61CA3 /* ExtraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08F94361F5FDBAA00E61CA3 /* ExtraView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C01E72761F5FD984001FD4E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C08F94321F5FDA5D00E61CA3 /* TopView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
 		C08F94341F5FDA6F00E61CA3 /* UnderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnderView.swift; sourceTree = "<group>"; };
+		C08F94361F5FDBAA00E61CA3 /* ExtraView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtraView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				C01E72601F5FD984001FD4E1 /* Info.plist */,
 				C08F94321F5FDA5D00E61CA3 /* TopView.swift */,
 				C08F94341F5FDA6F00E61CA3 /* UnderView.swift */,
+				C08F94361F5FDBAA00E61CA3 /* ExtraView.swift */,
 			);
 			path = StoryBoadTest;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 			files = (
 				C01E72571F5FD984001FD4E1 /* ViewController.swift in Sources */,
 				C08F94331F5FDA5D00E61CA3 /* TopView.swift in Sources */,
+				C08F94371F5FDBAA00E61CA3 /* ExtraView.swift in Sources */,
 				C01E72551F5FD984001FD4E1 /* AppDelegate.swift in Sources */,
 				C08F94351F5FDA6F00E61CA3 /* UnderView.swift in Sources */,
 			);
